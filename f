@@ -1,0 +1,35 @@
+[33mcommit 28a2056d56eeb5298cf5a3c37f4b910aa086e6a1[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: ziwang0411 <ziwang0411@gmail.com>
+Date:   Sat Jun 13 14:21:30 2020 -0700
+
+    finished lab2
+
+[33mcommit d5d8964fe915d43ddbac902c5738925545b63881[m
+Author: ziwang0411 <ziwang0411@gmail.com>
+Date:   Sat Jun 13 13:49:54 2020 -0700
+
+    javac IntList
+
+[33mcommit fddfe7fe817fb31b67624991292221ced94e192b[m
+Author: ziwang0411 <ziwang0411@gmail.com>
+Date:   Fri Jun 12 22:13:40 2020 -0700
+
+    updated library-spring 19
+
+[33mcommit 2bf83a2e42f4a89e7591e81085e8074eb433aef9[m
+Author: ziwang0411 <ziwang0411@gmail.com>
+Date:   Fri Jun 12 22:10:15 2020 -0700
+
+    add lab2 setup'
+
+[33mcommit b7f17cc5964707b0aee2a860f53a0f8fd8bcd9bd[m
+Author: ziwang0411 <ziwang0411@gmail.com>
+Date:   Fri Jun 12 00:03:30 2020 -0700
+
+    completed first part of lab1
+
+[33mcommit d93e56641427819c84b6eb4d9c06cf5fe559e529[m
+Author: ziwang0411 <ziwang0411@gmail.com>
+Date:   Thu Jun 11 23:28:15 2020 -0700
+
+    initial commit
