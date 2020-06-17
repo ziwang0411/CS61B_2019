@@ -28,6 +28,23 @@ public class IntListTest {
     }
 
     /**
+     * Returns the reverse of the given IntList.
+     * This method is destructive. If given null
+     * as an input, returns null.
+     */
+    @Test
+    public void testReverse() {
+        IntList L = IntList.of(1, 2, 3);
+        IntList N = IntList.of();
+        IntList Result = IntList.reverse(L);
+        IntList.reverse(N);
+        assertEquals(IntList.of(), N);
+        assertEquals(IntList.of(3, 2, 1), Result);
+        assertNotEquals(IntList.of(1, 2, 3), L);
+
+    }
+
+    /**
      * Do not use the new keyword in your tests. You can create
      * lists using the handy IntList.of method.
      * <p>
@@ -67,7 +84,7 @@ public class IntListTest {
     }
 
     /** If you're running this from the command line, you'll need
-      * to add a main method. See ArithmeticTest.java for an
-      * example. */
+     * to add a main method. See ArithmeticTest.java for an
+     * example. */
 
 }
